@@ -1,0 +1,8 @@
+Created a array that holds the prices of the Items
+Created a 2d array that holds the names of the Menu Items
+Randomizes which item is used in Bill
+Create some Code to calculate Tip 
+Create some Code to calculate Tax
+Wrote some Code that calculates the Tax that is input
+Wrote some Code that calculates the Tip that is input from User
+Code calculates and then adds the totals of Tax, Tip and the Menu Item to come up with the Final Cost of Meal

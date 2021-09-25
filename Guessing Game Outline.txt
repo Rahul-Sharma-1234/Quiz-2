@@ -1,0 +1,13 @@
+Create a Menu with 3 options
+If User inputs 1:
+        They are told to guess a number between 1-15
+	If the Number is Greater than the expected Number they will be told to choose a Smaller Number
+	If the Number is Smaller than the expected Number they will be told to choose a Bigger Number
+		Once they choose the correct number, they will get a congratulatury message that they chose a correct number
+			Recursive code provided that puts user back to the Menu after completed
+If User Chooses 2: 
+	They can change the Maximum Number to a different Number of their choosing
+		Recursive code provided that puts user back to the Menu after completed
+If the User chooses 3: 
+	They will exit and go back to the Main Menu again
+		Recursive code provided that puts user back to the Menu after completed
